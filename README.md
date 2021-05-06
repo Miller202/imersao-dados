@@ -1,2 +1,3 @@
 # imersao-dados
-Notebooks da imersão dados da Alura.
+
+- Análise de dados biológicos seguindo as práticas do data science. 
